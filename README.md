@@ -25,11 +25,11 @@ To run this project locally, simply clone the repository and open the `index.htm
 git clone https://github.com/ThabangEuginMmako/ecommerce-product-page.git
 cd ecommerce-product-page
 
-## Demo
-Check out the live demo here https://thabang-mmako-ecommerce-product-page.vercel.app/.
+Demo: [Check out the live demo here](https://thabang-mmako-ecommerce-product-page.vercel.app/).
 
-## Contributing
+
+Contributing
 Contributions are welcome! If you'd like to contribute to the project, please fork the repository and submit a pull request with your changes.
 
-## License
+License
 This project is licensed under the MIT License.
