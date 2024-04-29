@@ -14,6 +14,7 @@ Technologies Used:
 HTML: Used for structuring the web page content.
 CSS: Employed for styling and layout design, ensuring an attractive and intuitive interface.
 JavaScript: Implemented for dynamic behavior, including product filtering, cart management, and form validation.
+
 Installation:
 To run this project locally, simply clone the repository and open the index.html file in your web browser:
 
