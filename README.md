@@ -26,7 +26,7 @@ git clone https://github.com/ThabangEuginMmako/ecommerce-product-page.git
 cd ecommerce-product-page
 
 ## Demo
-Check out the live demo here.
+Check out the live demo here https://thabang-mmako-ecommerce-product-page.vercel.app/.
 
 ## Contributing
 Contributions are welcome! If you'd like to contribute to the project, please fork the repository and submit a pull request with your changes.
