@@ -1,7 +1,9 @@
 Ecommerce Product Page
+
 This project is a fully functional ecommerce product page built using HTML, CSS, and JavaScript. It allows users to browse through various products, view product details, add items to their cart, and proceed with checkout.
 
 Features:
+
 Responsive Design: The page is designed to adapt seamlessly to various screen sizes, ensuring a consistent user experience across devices.
 Product Listing: Users can explore a wide range of products with detailed descriptions and images.
 Product Details: Clicking on a product reveals additional information such as price, availability, and specifications.
@@ -17,7 +19,7 @@ To run this project locally, simply clone the repository and open the index.html
 
 bash
 
-git clone [repository_url]
+git clone https://github.com/ThabangEuginMmako/ecommerce-product-page.git
 cd ecommerce-product-page
 
 Demo:
